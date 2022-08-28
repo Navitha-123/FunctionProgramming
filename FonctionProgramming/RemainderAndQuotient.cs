@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FonctionProgramming
 {
-    internal class QuotientAndRemainderValue
+    internal class RemainderAndQuotient
     {
         public static void QuatientAndRemainderNumber()
         {
