@@ -16,8 +16,8 @@ namespace FonctionProgramming
             //VowelOrConsonent.VowelOrConsonentAlphabet();
             //ThreeLargestNumbers.AmongThreeLargestNumbers();
             //PowerNumber.PowerofTwo();
-            NumberHormonic.HormonicNumber();
-            //PrimeFactor.PrimeFactorNumber();
+            //HarmonicValue.HormonicNumber();
+            PrimeFactor.PrimeFactorNumber();
             //FlipCoin.HeadAndTail();
         }
     }

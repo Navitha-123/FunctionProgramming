@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FonctionProgramming
 {
-    internal class NumberHormonic
+    internal class HarmonicValue
     {
         public static void HormonicNumber()
         {
