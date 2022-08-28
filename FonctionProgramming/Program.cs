@@ -8,17 +8,17 @@ namespace FonctionProgramming
         {
             //Console.WriteLine("Hello, World!");
             // HeadAndTail.HeadAndTailPercentage();
-            //LeapYear.LeapYearOrNot();
+            LeapYear.LeapYearOrNot();
             //  PowerOfTwo.PowerOfTwoNumber();
             //QuotientAndRemainder.QuatientAndRemainderNumber();
             //Swap.SwapTwoNumbers();
             //EvenOrOdd.EvenOrOddNumber();
             //VowelOrConsonent.VowelOrConsonentAlphabet();
             //ThreeLargestNumbers.AmongThreeLargestNumbers();
-            //Power.PowerofTwo();
+            //PowerNumber.PowerofTwo();
             //NumberHormonic.HormonicNumber();
             //PrimeFactor.PrimeFactorNumber();
-            FlipCoin.HeadAndTail();
+            //FlipCoin.HeadAndTail();
         }
     }
 }

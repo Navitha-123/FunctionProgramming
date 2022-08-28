@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FonctionProgramming
 {
-    internal class Power
+    internal class PowerNumber
     {
         public static void PowerofTwo()
         {
