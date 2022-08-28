@@ -8,7 +8,7 @@ namespace FonctionProgramming
         {
             //Console.WriteLine("Hello, World!");
             // HeadAndTail.HeadAndTailPercentage();
-            LeapYear.LeapYearOrNot();
+            //YearLeap.LeapYearOrNot();
             //  PowerOfTwo.PowerOfTwoNumber();
             //QuotientAndRemainder.QuatientAndRemainderNumber();
             //Swap.SwapTwoNumbers();
@@ -16,7 +16,7 @@ namespace FonctionProgramming
             //VowelOrConsonent.VowelOrConsonentAlphabet();
             //ThreeLargestNumbers.AmongThreeLargestNumbers();
             //PowerNumber.PowerofTwo();
-            //NumberHormonic.HormonicNumber();
+            NumberHormonic.HormonicNumber();
             //PrimeFactor.PrimeFactorNumber();
             //FlipCoin.HeadAndTail();
         }
