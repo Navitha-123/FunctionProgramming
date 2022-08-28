@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FonctionProgramming
 {
-    internal class LeapYear
+    internal class YearLeap
     {
         public static void LeapYearOrNot()
         {
