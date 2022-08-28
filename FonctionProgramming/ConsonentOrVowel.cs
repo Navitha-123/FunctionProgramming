@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FonctionProgramming
 {
-    internal class VowelOrConsonent
+    internal class ConsonentOrVowel
     {
         public static void VowelOrConsonentAlphabet()
         {

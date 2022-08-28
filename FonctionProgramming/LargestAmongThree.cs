@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FonctionProgramming
 {
-    internal class ThreeLargestNumbers
+    internal class LargestAmongThree
     {
         public static void AmongThreeLargestNumbers()
         {
