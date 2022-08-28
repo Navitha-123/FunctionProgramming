@@ -12,9 +12,9 @@ namespace FonctionProgramming
             //  PowerOfTwo.PowerOfTwoNumber();
             //RemainderAndQuotient.QuatientAndRemainderNumber();
            // SwapNumber.SwapTwoNumbers();
-            EvenOrOdd.EvenOrOddNumber();
+           // OddOrEven.EvenOrOddNumber();
             //VowelOrConsonent.VowelOrConsonentAlphabet();
-            //ThreeLargestNumbers.AmongThreeLargestNumbers();
+            ThreeLargestNumbers.AmongThreeLargestNumbers();
             //PowerNumber.PowerofTwo();
             //HarmonicValue.HormonicNumber();
             //PrimeNumberFactor.PrimeFactorNumber();
