@@ -10,14 +10,14 @@ namespace FonctionProgramming
             // HeadAndTail.HeadAndTailPercentage();
             //YearLeap.LeapYearOrNot();
             //  PowerOfTwo.PowerOfTwoNumber();
-            //QuotientAndRemainder.QuatientAndRemainderNumber();
-            //Swap.SwapTwoNumbers();
-            //EvenOrOdd.EvenOrOddNumber();
+            //RemainderAndQuotient.QuatientAndRemainderNumber();
+           // SwapNumber.SwapTwoNumbers();
+            EvenOrOdd.EvenOrOddNumber();
             //VowelOrConsonent.VowelOrConsonentAlphabet();
             //ThreeLargestNumbers.AmongThreeLargestNumbers();
             //PowerNumber.PowerofTwo();
             //HarmonicValue.HormonicNumber();
-            PrimeFactor.PrimeFactorNumber();
+            //PrimeNumberFactor.PrimeFactorNumber();
             //FlipCoin.HeadAndTail();
         }
     }
